@@ -1,0 +1,28 @@
+<!-- create-song-form.ejs -->
+
+<h1>Crear canción</h1>
+
+<form action="/createSong" method="POST">
+  <label for="_id">ID:</label>
+  <input type="text" id="_id" name="_id" required>
+
+  <label for="titulo">Título:</label>
+  <input type="text" id="titulo" name="titulo" required>
+
+  <label for="autor">Autor:</label>
+  <input type="text" id="autor" name="autor" required>
+
+  <label for="Urlfoto">URL de foto:</label>
+  <input type="text" id="Urlfoto" name="Urlfoto">
+
+  <label for="duracion">Duración:</label>
+  <input type="number" id="duracion" name="duracion" required>
+
+  <label for="etiquetas">Etiquetas:</label>
+  <input type="text" id="etiquetas" name="etiquetas">
+
+  <label for="UrlCancion">URL de canción:</label>
+  <input type="text" id="UrlCancion" name="UrlCancion" required>
+
+  <button type="submit">Crear canción</button>
+</form>

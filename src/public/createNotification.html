@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <title>Nueva Notificación</title>
+  </head>
+  <body>
+    <h1>Nueva Notificación</h1>
+    <form method="POST" action="/createNotification">
+
+      <label for="user">Usuario:</label>
+      <input type="text" id="user" name="user" required><br><br>
+
+      <label for="followed">Seguido:</label>
+      <input type="text" id="followed" name="followed" required><br><br>
+
+      <label for="message">Mensaje:</label>
+      <input type="text" id="message" name="message" required><br><br>
+
+      <input type="submit" value="Crear">
+    </form>
+  </body>
+</html>
