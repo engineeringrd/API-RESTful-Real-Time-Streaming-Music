@@ -56,9 +56,9 @@ Now you can make requests on [localhost](http://localhost:8080) for endpoints in
 
 ## Authors 
 
-* **Raúl Daramus** - [RaulDaramus](https://github.com/RaulDaramus)
-* **Pablo Telmo Escolona** - [PabloTelmo](https://github.com/ibonCañete)
-* **Oscar Jaime** - [OscarJaime](https://github.com/ibonCañete)
+* **Raúl.D** - [rcdtrb](https://github.com/rcdtrb)
+* **Pablo Telmo Escolona** - [PabloTelmo]()
+* **Oscar Jaime** - [OscarJaime](https://github.com)
 
 <!-- CONTRIBUTING 
 ## Contributing
